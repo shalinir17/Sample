@@ -1,0 +1,9 @@
+Reading '/home/shalini/.cpan/Metadata'
+  Database was generated on Thu, 26 Jan 2017 22:17:02 GMT
+Warning: Cannot install prompt, don't know what it is.
+Try the command
+
+    i /prompt/
+
+to find objects with matching identifiers.
+IO::File is up to date (1.16).
